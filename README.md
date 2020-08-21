@@ -11,6 +11,4 @@
 ## 실행
 ### http 패킷
 ![http](./image/http.png)
-
-* 텍스트 출력
 ![Ip](./image/Ip.png) ![TCP](./image/TCP.png) ![ip-payload](./image/ip-payload.png)
